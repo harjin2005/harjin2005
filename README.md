@@ -1,5 +1,5 @@
 <!-- Professional Header -->
-<h1 align="center">👋 Hi, I'm Harjin Singh</h1>
+<h1 align="center">👋 Hi, I'm Harjinder Singh</h1>
 <h3 align="center">AI Engineer | Automation Specialist | Building Intelligent Systems</h3>
 
 ---
